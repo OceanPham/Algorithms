@@ -1,0 +1,42 @@
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe.config
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.pdb
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.MainForm.resources
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.Properties.Resources.resources
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.exe
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-master\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.pdb
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe.config
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.pdb
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.MainForm.resources
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.Properties.Resources.resources
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.exe
+C:\Users\ASUS\Downloads\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.pdb
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe.config
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.pdb
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.AssemblyReference.cache
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.SuggestedBindingRedirects.cache
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.MainForm.resources
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.Properties.Resources.resources
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.GenerateResource.cache
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.CoreCompileInputs.cache
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.exe
+D:\CPU-Scheduling-Algorithms-nhom4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.pdb
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe.config
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.pdb
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.AssemblyReference.cache
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.SuggestedBindingRedirects.cache
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.MainForm.resources
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.Properties.Resources.resources
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.GenerateResource.cache
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.CoreCompileInputs.cache
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.exe
+D:\CPU-Scheduling-Algorithms-team_4\CPU-Scheduling-Algorithms-master\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.pdb
